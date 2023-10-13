@@ -1,4 +1,5 @@
--  My name is Aidan Connolly, and I am a Computer Science student at Georgia Tech, graduating 2024
+-  My name is Aidan Connolly, and I am a Computer Science student at Georgia Tech, graduating 2025
+
 -  My studies are currently focused in intelligence and information internetworks
 -  I am currently developing my knowledge with Object-Oriented Programming
 -  How to reach me:
